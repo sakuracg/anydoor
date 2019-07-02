@@ -7,12 +7,6 @@
         "anydoor": "bin/anydoor"
     },
     "dependencies": {
-        "_chalk@2.4.2@chalk": "^2.4.2",
-        "_color-convert@1.9.3@color-convert": "^1.9.3",
-        "_color-name@1.1.3@color-name": "^1.1.3",
-        "_escape-string-regexp@1.0.5@escape-string-regexp": "^1.0.5",
-        "_has-flag@3.0.0@has-flag": "^3.0.0",
-        "_supports-color@5.5.0@supports-color": "^5.5.0",
         "ansi-styles": "^3.2.1",
         "chalk": "^2.4.2",
         "color-convert": "^1.9.3",
